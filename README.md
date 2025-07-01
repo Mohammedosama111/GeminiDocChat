@@ -1,4 +1,4 @@
-# langchin
+# GeminiDocChat
 
 ## Description
 A Streamlit app to chat with your own documents (PDF, DOCX, or web URLs) using Google Gemini AI. Upload files or enter a URL, process them, and ask questions in a conversational interface.
@@ -12,8 +12,8 @@ A Streamlit app to chat with your own documents (PDF, DOCX, or web URLs) using G
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/langchin.git
-cd langchin
+git clone https://github.com/Mohammedosama111/GeminiDocChat.git
+cd  GeminiDocChat  
 
 # (Optional) Create a virtual environment
 python -m venv venv
@@ -44,7 +44,7 @@ streamlit run app.py
 
 ## Project Structure
 ```
-langchin/
+ GeminiDocChat/
   app.py            # Main Streamlit app
   requirements.txt  # Python dependencies
   README.md         # Project documentation
@@ -64,5 +64,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 Specify your license here (e.g., MIT, Apache 2.0, etc.)
 
-## Contact
-For questions or suggestions, contact [your-email@example.com](mailto:your-email@example.com). 
+. 
