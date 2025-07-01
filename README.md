@@ -64,4 +64,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 Specify your license here (e.g., MIT, Apache 2.0, etc.)
 
-. 
+## Contact
+For questions or suggestions, contact [your-email@example.com](mailto:your-email@example.com). 
