@@ -44,7 +44,7 @@ streamlit run app.py
 
 ## Project Structure
 ```
-langchin/
+ GeminiDocChat/
   app.py            # Main Streamlit app
   requirements.txt  # Python dependencies
   README.md         # Project documentation
